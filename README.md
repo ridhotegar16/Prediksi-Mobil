@@ -5,6 +5,8 @@ Proyek ini merupakan implementasi Python untuk memprediksi harga mobil berdasark
 
 ## 📦 Fitur
 
+- ⚡ Menggunakan XGBoost Regressor untuk performa tinggi
+
 - 🔍 Scraping data mobil dari situs (otomatis)
 - 🧹 Preprocessing dan pembersihan data
 - 📈 Model machine learning untuk prediksi harga
@@ -12,6 +14,8 @@ Proyek ini merupakan implementasi Python untuk memprediksi harga mobil berdasark
 - ✅ Modular (setiap bagian dibagi dalam file terpisah)
 
 ## 🧠 Teknologi dan Library
+
+- XGBoost Regressor untuk model prediksi harga yang lebih akurat
 
 - Python
 - pandas, numpy
